@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "GameClient",
+            "request": "launch",
+            "mainClass": "GameClient",
+            "projectName": "src_705fec52"
+        },
+        {
+            "type": "java",
+            "name": "PaintballGame",
+            "request": "launch",
+            "mainClass": "PaintballGame",
+            "projectName": "src_705fec52"
+        }
+    
+}
